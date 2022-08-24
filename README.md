@@ -12,4 +12,4 @@ The game has
 </br> 
 </br> 
 </br> 
-**The HTML and CSS files were made by Jonas Schmedtmann @ Udemy for a reference**
+**The HTML and CSS files were made by Jonas Schmedtmann @ Udemy for the reference**
